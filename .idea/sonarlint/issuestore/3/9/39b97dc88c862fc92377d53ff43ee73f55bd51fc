@@ -1,0 +1,27 @@
+
+)
+java:S1700
+"Rename field "ders"(ÉêÉ–
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ı‚âøÿÿÿÿ
+x
+java:S4165"bRemove this useless assignment; "ders" already holds the assigned value along all execution paths.(ø·ò
+|
+java:S4165"fRemove this useless assignment; "ogretmen" already holds the assigned value along all execution paths.(í‡õ
+‹
+java:S4165"pRemove this useless assignment; "dersAlanOgrenciler" already holds the assigned value along all execution paths.(¼Ù£Êşÿÿÿÿ
+†
+java:S4165"pRemove this useless assignment; "dersAlanOgrenciler" already holds the assigned value along all execution paths.(¯ü¿î
+a
+java:S1854"FRemove this useless assignment to local variable "dersAlanOgrenciler".(¼Ù£Êşÿÿÿÿ
+J
+java:S1656"/Remove or correct this useless self-assignment.(¼Ù£Êşÿÿÿÿ
+E
+java:S1656"/Remove or correct this useless self-assignment.(¯ü¿î
+E
+java:S1656"/Remove or correct this useless self-assignment.(í‡õ
+E
+java:S1656"/Remove or correct this useless self-assignment.(ø·ò
+H
+java:S1128"-Remove this unused import 'java.util.Arrays'.(î–˜Éüÿÿÿÿ
+I
+java:S1128".Remove this unused import 'java.util.Scanner'.(ÒÜÅ¸úÿÿÿÿ

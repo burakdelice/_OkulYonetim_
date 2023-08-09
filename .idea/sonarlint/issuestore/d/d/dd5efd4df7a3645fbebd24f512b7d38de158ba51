@@ -1,0 +1,62 @@
+
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ı‚âøÿÿÿÿ
+|
+java:S4165"fRemove this useless assignment; "memurlar" already holds the assigned value along all execution paths.(§–ˆÕ
+„
+java:S4165"iRemove this useless assignment; "ogretmenler" already holds the assigned value along all execution paths.(õº¢óşÿÿÿÿ
+€
+java:S4165"eRemove this useless assignment; "dersler" already holds the assigned value along all execution paths.(®×Ûœÿÿÿÿÿ
+ƒ
+java:S4165"hRemove this useless assignment; "ogrenciler" already holds the assigned value along all execution paths.(â£ì‹úÿÿÿÿ
+
+java:S4165"fRemove this useless assignment; "siniflar" already holds the assigned value along all execution paths.(¿ßíŸıÿÿÿÿ
+;
+java:S3010"%Remove this assignment of "memurlar".(§–ˆÕ
+@
+java:S3010"%Remove this assignment of "siniflar".(¿ßíŸıÿÿÿÿ
+C
+java:S3010"(Remove this assignment of "ogretmenler".(õº¢óşÿÿÿÿ
+B
+java:S3010"'Remove this assignment of "ogrenciler".(â£ì‹úÿÿÿÿ
+?
+java:S3010"$Remove this assignment of "dersler".(®×Ûœÿÿÿÿÿ
+K
+java:S2209"5Change this instance-reference to a static reference.(§–ˆÕ
+P
+java:S2209"5Change this instance-reference to a static reference.(¿ßíŸıÿÿÿÿ
+P
+java:S2209"5Change this instance-reference to a static reference.(õº¢óşÿÿÿÿ
+P
+java:S2209"5Change this instance-reference to a static reference.(â£ì‹úÿÿÿÿ
+P
+java:S2209"5Change this instance-reference to a static reference.(®×Ûœÿÿÿÿÿ
+L
+java:S2696"6Make the enclosing method "static" or remove this set.(§–ˆÕ
+K
+java:S2209"5Change this instance-reference to a static reference.(§–ˆÕ
+Q
+java:S2696#"6Make the enclosing method "static" or remove this set.(¿ßíŸıÿÿÿÿ
+P
+java:S2209#"5Change this instance-reference to a static reference.(¿ßíŸıÿÿÿÿ
+Q
+java:S2696+"6Make the enclosing method "static" or remove this set.(õº¢óşÿÿÿÿ
+P
+java:S2209+"5Change this instance-reference to a static reference.(õº¢óşÿÿÿÿ
+Q
+java:S26963"6Make the enclosing method "static" or remove this set.(â£ì‹úÿÿÿÿ
+P
+java:S22093"5Change this instance-reference to a static reference.(â£ì‹úÿÿÿÿ
+Q
+java:S2696;"6Make the enclosing method "static" or remove this set.(®×Ûœÿÿÿÿÿ
+P
+java:S2209;"5Change this instance-reference to a static reference.(®×Ûœÿÿÿÿÿ
+J
+java:S1656"/Remove or correct this useless self-assignment.(¿ßíŸıÿÿÿÿ
+J
+java:S1656"/Remove or correct this useless self-assignment.(®×Ûœÿÿÿÿÿ
+J
+java:S1656"/Remove or correct this useless self-assignment.(â£ì‹úÿÿÿÿ
+E
+java:S1656"/Remove or correct this useless self-assignment.(§–ˆÕ
+J
+java:S1656"/Remove or correct this useless self-assignment.(õº¢óşÿÿÿÿ
